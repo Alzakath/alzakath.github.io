@@ -1,3 +1,7 @@
+---
+layout: cv
+title: Hervé Coatanhay CV
+---
 # Hervé Coatanhay
 
 Développeur Expert Python
