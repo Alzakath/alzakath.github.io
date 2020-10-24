@@ -1,4 +1,5 @@
 # Hervé Coatanhay
+
 Développeur Expert Python
 Ingénieur Senior Systèmes d'Information
 
@@ -9,6 +10,7 @@ herve.coatanhay@gmail.com
 ## Compétences
 
 ### Développement
+
 - Applications Web,
 - Architecture orientée services,
 - Programmation orientée objet,
@@ -17,6 +19,7 @@ herve.coatanhay@gmail.com
 - Conception de logiciels et d'IHM.
 
 ### Aptitudes et Méthodes
+
 - Conduite de projet,
 - Gestion des risques,
 - Autonomie et rigueur,
@@ -24,6 +27,7 @@ herve.coatanhay@gmail.com
 - Esprit d’initiative.
 
 ### Outils
+
 - __Langages__ : Python, Javascript, SQL, PHP, Bash, C/C++, Java, Scala,
 - __Développement__ : git, svn, Docker, Vagrant, Eclipse, PyCharm, Visual Studio Code,
 - __Base de données__ : Postgres, MySQL, Elasticsearch, MongoDB, Redis,
@@ -34,6 +38,7 @@ herve.coatanhay@gmail.com
 - __Bus de message__ : RabbitMQ, Kafka, Zero MQ
 
 ### Langues
+
 - __Anglais__: courant écrit & oral
 - __Allemand__: élémentaire écrit & oral 
 
@@ -41,6 +46,7 @@ herve.coatanhay@gmail.com
 
 __Chef de Projet__ - Net NG, pour __dianapetfood__
 `(depuis 2018)`
+
 Développement d’une plateforme de création de rapports pour les clients, à partir des résultats de tests de saveur d’aliments pour animaux. 
 - Définition d’une architecture logicielle adaptée
 - Stockage et manipulation de plusieurs millions de résultats de test
@@ -51,6 +57,7 @@ Développement d’une plateforme de création de rapports pour les clients, à 
 
 __Chef de Projet__ - Net NG, pour __Aon__
 `(depuis 2018)`
+
 Développement d’un portail pour la relation client, permettant la gestion des demandes (modification des polices, justificatifs, …), et des documents.
 - Interconnexion avec le SI du client (identification, GED, notifications, …)
 - Interface utilisateur web
@@ -59,6 +66,7 @@ Développement d’un portail pour la relation client, permettant la gestion des
 
 __Chef de Projet__ - Net NG, pour un cabinet de conseil
 `(2015 - 2018)`
+
 Développement d’un portail collaboratif de gestion de risqué au sein des entreprises.
 - Base de données orientée document (MongoDB)
 - Dashboard de suivi de risque
@@ -67,6 +75,7 @@ Développement d’un portail collaboratif de gestion de risqué au sein des ent
 
 __Formateur Expert__ - Net NG
 `(depuis 2015)`
+
 Formation des nouveaux collaborateurs et création de formations sur mesure autour du langage Python.
 - Formation au langage Python (débutant, intermédiaire et avancé)
 - Formation au calcul numérique et la modélisation en Python (Numpy & Pandas)
@@ -76,6 +85,7 @@ Formation des nouveaux collaborateurs et création de formations sur mesure auto
 
 __Chef de Projet__ - Net NG, pour __Pages Jaunes__
 `(2011 - 2015)`
+
 Développement d’une plateforme de création et publication de site vitrine pour les clients de Pages Jaunes.
 - Gestion d’un flux XML important provenant du SI
 - Mise en place d’une interface web de personnalisation des sites vitrine
@@ -83,6 +93,7 @@ Développement d’une plateforme de création et publication de site vitrine po
 
 __Développeur__ - Net NG, pour __Pages Jaunes__
 `(2001 - 2011)`
+
 Développement d’un système de gestion de production pour les produits en ligne Pages Jaunes.
 
 ## Formation
