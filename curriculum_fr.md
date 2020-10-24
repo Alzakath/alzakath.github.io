@@ -102,15 +102,18 @@ Développement d’un système de gestion de production pour les produits en lig
 
 ## Formation
 
-- `2019` __Formation Elastic Search__
-par Zenika, Rennes.
-- `2018` __Formation avancée en méthodes agiles__
-par Zenika, Rennes.
-- `2001` __Diplôme d'Ingénieur en Informatique et téléCommunications (DIIC)__
-option Langages et Systèmes d'Information (LSI)
+__Formation Elastic Search__ par Zenika, Rennes.
+`2019` 
+
+__Formation avancée en méthodes agiles__ par Zenika, Rennes.
+`2018` 
+
+__Diplôme d'Ingénieur en Informatique et téléCommunications (DIIC)__ option Langages et Systèmes d'Information (LSI)
 à l’ESIR, Rennes.
-- `1999` __Master en Calcul Scientifique et Modélisation__
-à l'UFR de Mathématique, Université de Rennes I, Rennes.
+`2001` 
+
+__Master en Calcul Scientifique et Modélisation__ à l'UFR de Mathématique, Université de Rennes I, Rennes.
+`1999` 
 
 ## Centres d'intérêts
 
